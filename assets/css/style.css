@@ -14938,7 +14938,7 @@ header.header-four .header-main {
 }
 header.header-four .header-main .nav-area-4 {
   border-radius: 100px;
-  border: 1px solid #1D1D1D;
+  /* border: 1px solid #1D1D1D; */
   margin-top: 33px;
 }
 header.header-four .header-main .nav-area-4 .nav-area {
